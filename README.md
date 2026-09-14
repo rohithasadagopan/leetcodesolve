@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/rohithasadagopan/leetcodesolve/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohithasadagopan/leetcodesolve/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/rohithasadagopan/leetcodesolve/tree/master/1768-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/rohithasadagopan/leetcodesolve/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
